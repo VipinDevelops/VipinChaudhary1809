@@ -1,4 +1,4 @@
-- 👋 Hi, , I'm Vipin Chaudhary 👋
+- 👋 Hi, I'm Vipin Chaudhary 👋
 - 👀 I’m interested in learning new Techonology
 - 🌱 I’m currently learning Web Dev and DSA
 - 📫 How to reach me: Twiiter - @itsvipindev
