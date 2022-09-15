@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @VipinChaudhary1809
+- 👋 Hi, , I'm Vipin Chaudhary 👋
 - 👀 I’m interested in learning new Techonology
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m love to do anything in a team 
+- 🌱 I’m currently learning Web Dev and DSA
+- 📫 How to reach me: Twiiter - @itsvipindev
+
 
 <!---
 VipinChaudhary1809/VipinChaudhary1809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
